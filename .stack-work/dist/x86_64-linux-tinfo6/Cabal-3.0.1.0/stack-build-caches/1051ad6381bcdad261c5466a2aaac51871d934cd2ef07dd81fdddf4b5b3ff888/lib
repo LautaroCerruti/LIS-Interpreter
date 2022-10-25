@@ -1,0 +1,28 @@
+/home/certi/ALP-TP1/src/PPLis.hs:
+  hash: 0a9dd3e71b20e9f2164ca0f48f357f7892565ee7a55b0a5bd4d8998ffbad8a39
+/home/certi/ALP-TP1/src/AST.hs:
+  hash: 85b2fdc3ae38060610cc75d43a7d9518f26a9ab80b70699a6b8461ee46bca2d0
+/home/certi/ALP-TP1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
+  hash: 265b8fec538ebb4fa004fde0cd5d8e237fa313de3acdeffc77919b36af6f858c
+/home/certi/ALP-TP1/package.yaml:
+  hash: c8cebd2597c255ca98cf3cc193844f744ac5647a69f83a21ca23bb1a669608f3
+/home/certi/ALP-TP1/src/Parser.hs:
+  hash: 813bdb7adc20ba193850d6175dd699707fb1c43bcac658e55683dc4347ff8ffa
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff
+/home/certi/ALP-TP1/src/Eval1.hs:
+  hash: 862dc0e30ec5bc3a34066432158d64a564fc1f75037e54172ec969e29f10cd17
+/home/certi/ALP-TP1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/Paths_TP1.hs:
+  hash: ee835f663d1e480e48f33a7e7d70eb0c0ec3437d598095e8efff310ae39b5cc9
+/home/certi/ALP-TP1/src/Eval2.hs:
+  hash: c5072d719e19d8ea42edfaf0accfcd40ff23604dd8d15c82e094d379a09a877f
+/home/certi/ALP-TP1/TP1.cabal:
+  hash: 518263f21835b10f342ffd95386c7bdb6c293a16ead0efb6bf93da19ece7eff2
+/home/certi/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.3/lib/ghc-8.8.3/include/ghcversion.h:
+  hash: 40d1b759f485f1cd5a54141a6412691ac2b76930507289a16a6a7b89b045b4d2
+/home/certi/ALP-TP1/ChangeLog.md:
+  hash: d671c1d73cb79102b61920326ee7d43c81e9d4d770677cfaccbcfd6c725e41a9
+/home/certi/ALP-TP1/README.md:
+  hash: 054809227edc4c69d13cce47da02ab45571862a0e352c226e20d829665571bcb
+/home/certi/ALP-TP1/src/Eval3.hs:
+  hash: e7e48387006b74cbd9efbe17b7f26ebe2382f5bd42cbc1af9badc54d3c4153bd
